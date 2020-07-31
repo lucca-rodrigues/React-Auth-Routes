@@ -1,10 +1,10 @@
 import React from 'react';
 import { Switch } from 'react-router-dom';
 
-import Login from '../pages/Login';
-import Main from '../pages/Main';
+import Login from '../Pages/Login';
+import Main from '../Pages/Main';
 
-import Route from './Route';
+import Route from './route';
 
 export default function Routes() {
   return (
